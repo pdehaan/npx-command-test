@@ -1,0 +1,24 @@
+{
+  "name": "npx-command-test",
+  "description": "Testing multiple commands in npx package",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bin": {
+    "commandA": "cmdA.js",
+    "commandB": "cmdB.js"
+  },
+  "bugs": {
+    "url": "https://github.com/pdehaan/npx-command-test/issues"
+  },
+  "homepage": "https://github.com/pdehaan/npx-command-test#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/npx-command-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
